@@ -185,8 +185,3 @@ SkyCast is an AI-powered weather prediction application that provides personaliz
 ### UI Styling:
 - Tailwind CSS is used for styling the user interface.
 
----
-
-## Contact
-
-For any questions or issues, please contact [your-email@example.com].
